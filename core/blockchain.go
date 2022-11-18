@@ -1,6 +1,6 @@
 package core
 
-import "github.com/quankori/go-avalanche-consensus/core/types"
+import "github.com/quankori/go-consensus/core/types"
 
 // Blockchain keeps a sequence of Blocks
 type Blockchain struct {

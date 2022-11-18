@@ -3,8 +3,8 @@ package core
 import (
 	"time"
 
-	"github.com/quankori/go-avalanche-consensus/consensus"
-	"github.com/quankori/go-avalanche-consensus/core/types"
+	"github.com/quankori/go-consensus/consensus"
+	"github.com/quankori/go-consensus/core/types"
 )
 
 // NewBlock creates and returns Block

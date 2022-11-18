@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/quankori/go-avalanche-consensus/core"
+	"github.com/quankori/go-consensus/core"
 )
 
 func main() {

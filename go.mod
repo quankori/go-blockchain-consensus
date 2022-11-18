@@ -1,3 +1,3 @@
-module github.com/quankori/go-avalanche-consensus
+module github.com/quankori/go-consensus
 
 go 1.19

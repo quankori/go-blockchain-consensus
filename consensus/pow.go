@@ -7,8 +7,8 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/quankori/go-avalanche-consensus/common"
-	"github.com/quankori/go-avalanche-consensus/core/types"
+	"github.com/quankori/go-consensus/common"
+	"github.com/quankori/go-consensus/core/types"
 )
 
 var (
